@@ -22,5 +22,6 @@ D:\> erl  --> jika tidak dapat di run, daftar kan "C:\Program Files\erl10.0.1\bi
 ...
 cd("D:/").         --> lokasi dimana file helloworld.erl, hanya dibutuhkan jika current location di cmd saat ini tidak satu directory dengan helloworld.erl
 c(helloworld).	   --> compile file helloworld.erl	
+helloworld:start().   --> jalankan fungsi start
 ```
 
