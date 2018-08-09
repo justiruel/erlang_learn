@@ -30,4 +30,5 @@ helloworld:start().   --> jalankan fungsi start
 
 
 # CATATAN
-jika mencoba import modul beda directory gagal, setting environtment variable ERL_LIBS dengan path dimana *.beam diletakkan
+jika mencoba import modul beda directory gagal, setting environtment variable ERL_LIBS dengan path dimana *.beam diletakkan<br/>
+biasanya tanpa harus setting ERL_LIBS langsung dapat import module beda direktori seakan seperti dalam satu directory.
