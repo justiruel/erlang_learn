@@ -25,3 +25,9 @@ c(helloworld).	   --> compile file helloworld.erl
 helloworld:start().   --> jalankan fungsi start
 ```
 
+
+
+
+
+# CATATAN
+jika mencoba import modul beda directory gagal, setting environtment variable ERL_LIBS dengan path dimana *.beam diletakkan
