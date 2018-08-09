@@ -9,7 +9,7 @@ contoh :
 Buat file <b>helloworld.erl</b> (nama file harus sesuai nama modul)
 ```
 % hello world program
--module(helloworld).    -> seperti namespace 
+-module(helloworld).    -> seperti namespace / class
 -export([start/0]). 
 
 start() -> 
