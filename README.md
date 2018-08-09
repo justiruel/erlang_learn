@@ -18,7 +18,7 @@ start() ->
 
 ketik perintah
 ```
-D:\> erl
+D:\> erl  --> jika tidak dapat di run, daftar kan "C:\Program Files\erl10.0.1\bin" ke PATH
 ...
 cd("D:/").         --> lokasi dimana file helloworld.erl
 c(helloworld).	   --> compile file helloworld.erl	
